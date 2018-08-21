@@ -2,7 +2,9 @@
 	"name": "metastore/lib-bulma",
 	"type": "library",
 	"description": "Modern CSS framework based on Flexbox. Bulma library for METADATA projects.",
-	"license": "MIT",
+	"license": [
+		"MIT"
+	],
 	"homepage": "https://metastore.pro",
 	"keywords": [
 		"metadata",
